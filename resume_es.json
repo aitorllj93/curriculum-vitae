@@ -1,0 +1,185 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Aitor Llamas Jiménez",
+    "label": "Programador",
+    "image": "https://avatars.githubusercontent.com/u/5903438",
+    "email": "aitorllj93@gmail.com",
+    "phone": "+34 660 207 917",
+    "summary": "Apasionado del ecosistema JavaScript",
+    "url": "https://d3v0ps.github.io",
+    "location": {
+      "address": "Av Primado Reig 44",
+      "postalCode": "46009",
+      "city": "Valencia",
+      "countryCode": "ES",
+      "region": "Valencia"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Aitor Llamas Jimenez",
+        "url": "https://www.linkedin.com/in/aitor-llamas-jimenez-3b760210a/"
+      },
+      {
+        "network": "StackOverflow",
+        "username": "aitorllj93",
+        "url": "https://stackoverflow.com/users/3068081/aitorllj93"
+      },
+      {
+        "network": "GitHub",
+        "username": "d3v0ps",
+        "url": "https://github.com/d3v0ps"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Colba Technologies S.L.",
+      "location": "Valencia, España",
+      "description": "",
+      "position": "Programador Senior Frontend Angular",
+      "url": "https://colba.es",
+      "startDate": "2021-01-01",
+      "summary": "",
+      "highlights": [
+        "Desarrollar una herramienta de gestión de bicis eléctricas para FIT E-Bike"
+      ]
+    },
+    {
+      "name": "BeLike Software",
+      "location": "Valencia, España",
+      "description": "",
+      "position": "Programador Senior Frontend Angular",
+      "url": "https://www.belikesoftware.com",
+      "startDate": "2020-01-01",
+      "endDate": "2020-12-31",
+      "summary": "",
+      "highlights": [
+        "Desarrollar una herramienta de formularios para test clínicos"
+      ]
+    },
+    {
+      "name": "PFS Group S.L.",
+      "location": "Valencia, España",
+      "description": "",
+      "position": "Programador Senior Fullstack",
+      "url": "https://www.pfsgroup.es/",
+      "startDate": "2016-09-01",
+      "endDate": "2019-12-31",
+      "summary": "",
+      "highlights": [
+        "Desarrollar herramientas de gestión de prodecimientos judiciales",
+        "Enseñar y liderar un equipo de desarrollo",
+        "Desplegar diferentes entornos con Docker",
+        "Evaluar nuevas tecnologías a introducir en los proyectos"
+      ]
+    },
+    {
+      "name": "Irontec",
+      "location": "Bilbao, España",
+      "description": "",
+      "position": "Programador Fullstack",
+      "url": "https://www.irontec.com/",
+      "startDate": "2014-07-01",
+      "endDate": "2016-08-31",
+      "summary": "",
+      "highlights": [
+        "Desarrollar soluciones de software para call centers"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centro de Estudios Almi",
+      "url": "https://almi.eus",
+      "area": "Tecnologías de la Información",
+      "studyType": "Training Course about Corporative Web Projects Development",
+      "startDate": "2013-11-01",
+      "endDate": "2014-06-01",
+      "courses": []
+    },
+    {
+      "institution": "Centro de Estudios Almi",
+      "url": "https://almi.eus",
+      "area": "Tecnologías de la Información",
+      "studyType": "Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma",
+      "startDate": "2012-09-01",
+      "endDate": "2014-05-01",
+      "courses": []
+    },
+    {
+      "institution": "Centro de Estudios Almi",
+      "url": "https://almi.eus",
+      "area": "Tecnologías de la Información",
+      "studyType": "Ciclo Formativo de Grado Medio de Sistemas Microinformáticos y Redes",
+      "startDate": "2010-09-01",
+      "endDate": "2012-05-01",
+      "courses": []
+    }
+  ],
+  "skills": [
+    {
+      "name": "Front-end",
+      "level": "Advanced",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "TypeScript",
+        "SCSS",
+        "Angular",
+        "RxJS",
+        "State Management"
+      ]
+    },
+    {
+      "name": "Back-end",
+      "level": "Advanced",
+      "keywords": [
+        "Node.js",
+        "NestJS",
+        "Socket.io",
+        "GraphQL",
+        "CQRS"
+      ]
+    },
+    {
+      "name": "Bases de Datos",
+      "level": "Intermediate",
+      "keywords": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Devops",
+      "level": "Beginner",
+      "keywords": [
+        "Docker",
+        "Github Actions",
+        "Azure Devops"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Nativo"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluido"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00",
+    "lang": "es"
+  }
+}

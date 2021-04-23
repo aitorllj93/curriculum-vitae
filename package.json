@@ -1,0 +1,20 @@
+{
+  "name": "@d3v0ps/curriculum-vitae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node_modules/.bin/resume serve",
+    "build": "npm run export:html && npm run export:pdf && npm run export:html:es && npm run export:pdf:es",
+    "export:html": "node_modules/.bin/resume export index.html",
+    "export:pdf": "node_modules/.bin/resume export cv.pdf",
+    "export:html:es": "node_modules/.bin/resume export es.html --resume resume_es.json",
+    "export:pdf:es": "node_modules/.bin/resume export cv_es.pdf --resume resume_es.json",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "resume-cli": "^3.0.4"
+  }
+}
